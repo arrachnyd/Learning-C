@@ -4,10 +4,9 @@ int sum(int a, int b) {
 	return a + b;
 }
 
-
 int main () {
 	printf("Hello, World!");
-	printf("\nI'm using Git Bash to run this!");
+	printf("\nI changed the code!");
 	
 	int a = 3;
 	int b = 2;
